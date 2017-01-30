@@ -1,5 +1,5 @@
 {
-  "name": "atom-dark-f*-syntax",
+  "name": "atom-dark-fstar-syntax",
   "theme": "syntax",
   "version": "0.0.1",
   "description": "An F* syntax package designed for atom-dark",
