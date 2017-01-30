@@ -7,7 +7,7 @@
     "syntax",
     "theme"
   ],
-  "repository": "https://github.com/atom/atom-dark-fstar-syntax",
+  "repository": "https://github.com/a-manning/atom-dark-fstar-syntax",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
